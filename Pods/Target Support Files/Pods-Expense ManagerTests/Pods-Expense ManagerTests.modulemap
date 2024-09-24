@@ -1,0 +1,6 @@
+framework module Pods_Expense_ManagerTests {
+  umbrella header "Pods-Expense ManagerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
