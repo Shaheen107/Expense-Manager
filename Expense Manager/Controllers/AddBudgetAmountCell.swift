@@ -1,7 +1,6 @@
 import UIKit
 
 class AddBudgetAmountCell: UITableViewCell {
-    
     @IBOutlet weak var savingTitleLbl: UILabel!
     
     override func awakeFromNib() {
