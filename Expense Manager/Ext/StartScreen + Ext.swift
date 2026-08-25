@@ -10,9 +10,6 @@ extension UIViewController {
         navigationItem.titleView = imageView
     }
     
-    
-    
-    
 //    -- navigation Screens --
 //    Sign In
     func navigateToSignInVC() {
